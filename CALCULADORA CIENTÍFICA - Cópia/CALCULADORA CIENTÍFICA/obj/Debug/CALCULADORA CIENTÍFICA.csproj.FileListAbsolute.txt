@@ -1,0 +1,20 @@
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\bin\Debug\CALCULADORA CIENTÍFICA.exe.config
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\bin\Debug\CALCULADORA CIENTÍFICA.exe
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\bin\Debug\CALCULADORA CIENTÍFICA.pdb
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.csprojAssemblyReference.cache
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA_CIENTÍFICA.Form1.resources
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA_CIENTÍFICA.Properties.Resources.resources
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.csproj.GenerateResource.cache
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.exe
+C:\Users\kingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.pdb
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.csproj.CoreCompileInputs.cache
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\bin\Debug\CALCULADORA CIENTÍFICA.exe.config
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\bin\Debug\CALCULADORA CIENTÍFICA.exe
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\bin\Debug\CALCULADORA CIENTÍFICA.pdb
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.csprojAssemblyReference.cache
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA_CIENTÍFICA.Form1.resources
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA_CIENTÍFICA.Properties.Resources.resources
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.csproj.GenerateResource.cache
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.csproj.CoreCompileInputs.cache
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.exe
+C:\Users\KingPercis\source\repos\CALCULADORA CIENTÍFICA - Cópia\CALCULADORA CIENTÍFICA\obj\Debug\CALCULADORA CIENTÍFICA.pdb
